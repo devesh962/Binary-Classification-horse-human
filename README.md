@@ -9,4 +9,4 @@ The model can also be tested on real life high quality images.
 
 The training Accuracy of the model is 99.8%.
 
-Run the .py file on Google Colab.
+Run the .py file on Google Colab or Jupyter Notebook.
